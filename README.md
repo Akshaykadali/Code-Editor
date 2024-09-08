@@ -19,6 +19,9 @@ style.css: Contains the CSS for styling the editor layout, ensuring a clean and 
 script.js: Handles the functionality of the editor, including running the code in the output section.
 boxicons.min.css: External CSS library for icons used within the project for better user interface design.
 
+Project Screenshot:
+![6](https://github.com/user-attachments/assets/a067d931-e04b-48e4-b8ac-0af4184768fa)
+
 🚀 Getting Started
 Clone the repository: git clone https://github.com/Akshaykadali/code-editor.git
 Open the project folder: cd code-editor
