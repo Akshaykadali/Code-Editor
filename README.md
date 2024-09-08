@@ -24,7 +24,9 @@ Project Screenshot:
 
 🚀 Getting Started
 Clone the repository: git clone https://github.com/Akshaykadali/code-editor.git
+
 Open the project folder: cd code-editor
+
 Open index.html in your browser to start using the code editor.
 
 📜 License
